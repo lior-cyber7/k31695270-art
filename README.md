@@ -56,12 +56,12 @@ Hi, I'm Haider 👋
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=k31695270-art&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=k31695270-art&theme=great-gatsby&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lior-cyber7&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=lior-cyber7&theme=great-gatsby&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=k31695270-art&theme=great-gatsby&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lior-cyber7&theme=great-gatsby&hide_border=true&layout=compact" height="165"/>
 </p>
 
 ---
@@ -69,15 +69,7 @@ Hi, I'm Haider 👋
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k31695270-art&theme=great-gatsby&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-## 🚀 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=k31695270-art&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lior-cyber7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
@@ -85,7 +77,7 @@ Hi, I'm Haider 👋
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=k31695270-art&style=for-the-badge&color=orange"/>
+  <img src="https://komarev.com/ghpvc/?username=lior-cyber7&style=for-the-badge&color=orange"/>
 </p>
 
 ---
