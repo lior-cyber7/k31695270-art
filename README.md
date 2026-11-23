@@ -69,9 +69,8 @@ Hi, I'm Haider 👋
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lior-cyber7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://trophy.ryglcloud.net/?username=lior-cyber7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
 ---
 
 ## 👀 Profile Visitors
